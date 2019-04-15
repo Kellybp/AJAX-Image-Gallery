@@ -1,1 +1,0 @@
-# AJAX-Image-Gallery

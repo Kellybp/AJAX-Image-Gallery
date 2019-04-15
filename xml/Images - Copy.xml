@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<Images>
+	<image>
+		<imageTitle>images/testing.jpg</imageTitle>
+		<alt>test</alt>
+	</image>
+	<image>
+		<imageTitle>images/cat.jpg</imageTitle>
+		<alt>cat</alt>
+	</image>
+	<image>
+		<imageTitle>images/spooks.jpg</imageTitle>
+		<alt>spooks</alt>
+	</image>
+	<image>
+		<imageTitle>images/pumkins.jpg</imageTitle>
+		<alt>pumkins</alt>
+	</image>
+	<image>
+		<imageTitle>images/cool.jpg</imageTitle>
+		<alt>cool</alt>
+	</image>
+	<image>
+		<imageTitle>images/cat.jpg</imageTitle>
+		<alt>cat</alt>
+	</image>
+	<image>
+		<imageTitle>images/mickey.jpg</imageTitle>
+		<alt>mickey</alt>
+	</image>
+	<image>
+		<imageTitle>images/spooktacular.jpg</imageTitle>
+		<alt>spooktacular</alt>
+	</image>
+	<image>
+		<imageTitle>images/testing.jpg</imageTitle>
+		<alt>test</alt>
+	</image>
+	<image>
+		<imageTitle>images/testing.jpg</imageTitle>
+		<alt>test</alt>
+	</image>
+</Images>
